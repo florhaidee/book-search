@@ -1,5 +1,5 @@
 {
-  "name": "googlebooks-app",
+  "name": "book-search",
   "version": "1.0.0",
   "description": "",
   "main": "server/server.js",
@@ -12,11 +12,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@work.github.com:arosenkranz/googlebooks-app.git"
+    "url": "git+https://github.com/florhaidee/book-search.git"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "if-env": "^1.0.4"
   },
