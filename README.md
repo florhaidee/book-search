@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
  
   ## Description 
 
-  A Google Books API search engine built with a RESTful API, and refactor it to be a GraphQL API built with Apollo Server.
+  A Google Books API search engine built with a RESTful API, and refactor it to be a GraphQL API. Built with Apollo Server.
   Where users can search for books and saved them in their accounts.
   
   ![Main page](./client/public/assets/images/main-page.png)
