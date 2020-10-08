@@ -20,7 +20,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
   ## Application
 
   To go to the deployed application go to:
-https://florhaidee.github.io/florhaidee-guerra/
+https://awesome-reading.herokuapp.com/
 
   ## Features
 
